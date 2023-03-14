@@ -20,7 +20,7 @@
             "streamSettings":{
                 "network":"ws",
                 "wsSettings":{
-                    "path":"/vmess"
+                    "path":"/vm"
                 }
             },
             "sniffing":{
@@ -50,7 +50,7 @@
                 "network":"ws",
                 "security":"none",
                 "wsSettings":{
-                    "path":"/vless"
+                    "path":"/vl"
                 }
             },
             "sniffing":{

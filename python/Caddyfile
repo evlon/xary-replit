@@ -1,9 +1,9 @@
 :3000 {
-	handle /vmess {
+	handle /vm {
 		reverse_proxy http://localhost:10000
 	}
 
-	handle /vless {
+	handle /vl {
 		reverse_proxy http://localhost:20000
 	}
 
